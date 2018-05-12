@@ -1,0 +1,37 @@
+_repo: Voces-Populi_37597
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anstey, F.
+    alias: Guthrie, Thomas Anstey
+    birthdate: 1856
+    deathdate: 1934
+    gutenberg_agent_id: '6137'
+    url: http://www.gutenberg.org/2009/agents/6137
+    wikipedia: http://en.wikipedia.org/wiki/F._Anstey
+description: ''
+gutenberg_issued: '2011-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37597'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English wit and humor'
+- !lcc 'PR'
+tableOfContents: An evening with a conjuror -- At the Tudor exhibition -- In an omnibus
+  -- At a sale of high-class sculpture -- At the Guelph exhibition -- At the Royal
+  Academy -- At the horse show -- At a dance -- At the British Museum -- The travelling
+  menagerie -- At the Regent Street Tussaud's -- At the military exhibition -- At
+  the French exhibition -- In the mall on drawing-room day -- At a Parisian café chantant
+  -- At a garden party -- At the military tournament -- Free speech -- The riding-class
+  -- The impromptu charade-party -- A Christmas romp -- On the ice -- In a fog --
+  Bricks without straw -- At a music hall -- A recitation under difficulties -- Bank
+  Holiday -- A row in the pit; or, the obstructive hat.
+title: Voces Populi
+url: http://www.gutenberg.org/ebooks/37597

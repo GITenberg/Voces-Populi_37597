@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6137
     wikipedia: http://en.wikipedia.org/wiki/F._Anstey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37597#Voces-Populi
 gutenberg_issued: '2011-10-02'
 gutenberg_type: Text
 identifiers:
